@@ -1,4 +1,4 @@
-<h1 align="center">Projeto de Navegação em React</h1>
+<h1 align="center">DIO Clone</h1>
 
 <p align="center">
 Projeto feito durante a formação React Developer, onde a maior funcionalidade é mostrar como utilizar a navegação em uma aplicação React. <br/>
@@ -19,7 +19,7 @@ Projeto feito durante a formação React Developer, onde a maior funcionalidade 
 <br>
 
 <p align="center">
-  <img alt="Projeto de Navegação em React" src=".github/preview.png" width="100%">
+  <img alt="DIO Clone" src=".github/preview.png" width="100%">
 </p>
 
 ---
@@ -30,24 +30,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - React
+- Figma
 - Git e Github
 
 ---
 ## 💻 Projeto
 
-O Projeto de Navegação em React consiste em mostrar uma maneira de utilizar a navegação entre páginas dentro de uma aplicação React.
-
+O Projeto DIO Clone consiste em mostrar uma maneira de utilizar a navegação entre páginas dentro de uma aplicação React, desenvolvendo um clone da plataforma DIO.
 
 ---
 ## 🔖 Layout
 
 Esse projeto não possui layout pré definido, ele foi desenvolvido durante a Formação React Developer.
+A Digital Innovation One (DIO) não disponibilizou o link para acesso ao Figma.
 
 ---
 ## 📑 Aprendizado
 
 Durante o desenvolvimento deste projeto utilizei o React-Router-Dom para realizar a navegação entre as páginas. </br>
-
+Foi utilizado o styled-components para a estilização da aplicação, facilitando o desenvolvimento e deixando a reutilização de componentes mais fácil. </br>
 
 ---
 ## 📝 Licença
