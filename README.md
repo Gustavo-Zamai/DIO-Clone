@@ -19,7 +19,19 @@ Projeto feito durante a formação React Developer, onde a maior funcionalidade 
 <br>
 
 <p align="center">
-  <img alt="DIO Clone" src=".github/preview.png" width="100%">
+  <img alt="DIO Clone" src=".github/home.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="DIO Clone" src=".github/login.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="DIO Clone" src=".github/user-home.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="DIO Clone" src=".github/cadastro.png" width="100%">
 </p>
 
 ---
@@ -36,7 +48,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 ## 💻 Projeto
 
-O Projeto DIO Clone consiste em mostrar uma maneira de utilizar a navegação entre páginas dentro de uma aplicação React, desenvolvendo um clone da plataforma DIO.
+O Projeto DIO Clone consiste em mostrar uma maneira de utilizar a navegação entre páginas dentro de uma aplicação React, desenvolvendo um clone da plataforma DIO.<br>
+Com as páginas de Login, Home, Cadastro e Home Page do usuário.
+
 
 ---
 ## 🔖 Layout
