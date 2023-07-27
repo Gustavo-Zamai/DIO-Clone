@@ -1,7 +1,7 @@
 <h1 align="center">DIO Clone</h1>
 
 <p align="center">
-Projeto feito durante a formação React Developer, onde a maior funcionalidade é mostrar como utilizar a navegação em uma aplicação React. <br/>
+Projeto feito durante a formação React Developer, onde o maior objetivo foi mostrar como utilizar a navegação em uma aplicação React, com o React-Router-Dom. <br/>
 </p>
 
 <p align="center">
