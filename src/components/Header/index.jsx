@@ -1,7 +1,6 @@
 import React from 'react'
-
 import logo from '../../assets/logo-dio.svg'
-import { Button } from '../Button/styles';
+import { Button } from '../Button';
 import {
     SearchInputContainer,
     Container,
