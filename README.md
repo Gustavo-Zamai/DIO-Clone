@@ -41,14 +41,14 @@ O Projeto DIO Clone consiste em mostrar uma maneira de utilizar a navegação en
 ---
 ## 🔖 Layout
 
-Esse projeto não possui layout pré definido, ele foi desenvolvido durante a Formação React Developer.
-A Digital Innovation One (DIO) não disponibilizou o link para acesso ao Figma.
+
+Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/file/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?type=design&node-id=0-1&mode=design&t=xCWUvKXozf1kAYwv-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 ## 📑 Aprendizado
 
 Durante o desenvolvimento deste projeto utilizei o React-Router-Dom para realizar a navegação entre as páginas. </br>
-Foi utilizado o styled-components para a estilização da aplicação, facilitando o desenvolvimento e deixando a reutilização de componentes mais fácil. </br>
+Foi utilizado o styled-components para a estilização da aplicação, facilitando o desenvolvimento e deixando a reutilização de componentes mais facilmente. </br>
 
 ---
 ## 📝 Licença
