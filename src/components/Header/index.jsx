@@ -8,25 +8,36 @@ import {
     Menu,
     MenuRight,
     Row,
-    Wrapper
+    Wrapper,
+    UserPicture
 } from './styles';
 
-const Header = () => {
+const Header = ({auth}) => {
   return (
     <Wrapper>
         <Container>
             <Row>
                 <img src={logo} alt="Logo da DIO" />
-                <SearchInputContainer>
-                    <Input placeholder='Buscar...'/>
-                </SearchInputContainer>
-                <Menu>Live Code</Menu>
-                <Menu>Global</Menu>
+                {auth ? (
+                    <>
+                    <SearchInputContainer>
+                        <Input placeholder='Buscar...'/>
+                    </SearchInputContainer>
+                    <Menu>Live Code</Menu>
+                    <Menu>Global</Menu>                    
+                    </>
+                ) : null}
             </Row>
             <Row>
-                <MenuRight href="#">Home</MenuRight>
-                <Button title="Entrar" />
-                <Button title="Cadastrar" />
+                {auth ? (
+                    <UserPicture src='https://avatars.githubusercontent.com/u/92702717?v=4' />
+                ) : (
+                    <>
+                    <MenuRight href="#">Home</MenuRight>
+                    <Button title="Entrar" />
+                    <Button title="Cadastrar" />
+                    </>
+                )}
             </Row>
         </Container>
     </Wrapper>

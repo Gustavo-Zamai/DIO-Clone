@@ -6,7 +6,7 @@ import { Container, Column, Title, TitleHighlight } from "./styles";
 const UserFeed = () => {
   return (
     <>
-      <Header />
+      <Header auth={true}/>
       <Container>
         <Column flex={3}>
           <Title>Feed</Title>
