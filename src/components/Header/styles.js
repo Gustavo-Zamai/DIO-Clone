@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
     width: 100%;
-    min-width: 80%;
+    max-width: 80%;
     height: 47px;
 
     display: flex;
@@ -47,7 +47,7 @@ export const SearchInputContainer = styled.div`
 `
 
 export const Menu = styled.a`
-    font-family: 'Open-Sans';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-size: 12px;
     line-height: 25px;
@@ -57,7 +57,7 @@ export const Menu = styled.a`
 `
 
 export const MenuRight = styled.a`
-    font-family: 'Open-Sans';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-size: 12px;
     line-height: 25px;
