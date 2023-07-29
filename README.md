@@ -62,7 +62,8 @@ Você pode visualizar o layout do projeto através [Desse Link](https://www.figm
 ## 📑 Aprendizado
 
 Durante o desenvolvimento deste projeto utilizei o React-Router-Dom para realizar a navegação entre as páginas. </br>
-Foi utilizado o styled-components para a estilização da aplicação, facilitando o desenvolvimento e deixando a reutilização de componentes mais facilmente. </br>
+Foi utilizado o styled-components para a estilização da aplicação, facilitando o desenvolvimento, deixando a reutilização de componentes mais fácil e possibilitando colocar regras nas estilizações. </br>
+Para a navegação foi utilizado o useNavigate, um hook do próprio React.
 
 ---
 ## 📝 Licença
