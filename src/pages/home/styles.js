@@ -18,7 +18,7 @@ export const Title = styled.h2`
     font-weight: 700;
     font-style: normal;
     width: 320px;
-    margin-bottom: 33px;
+    margin-bottom: 20px;
     line-height: 45px;
     color: #ffffff;
 `
@@ -33,7 +33,7 @@ export const TextContent = styled.p`
     font-weight: 400;
     font-style: normal;
     width: 420px;
-    margin-bottom: 33px;
+    margin-bottom: 20px;
     line-height: 22px;
     color: #ffffff;
 `
